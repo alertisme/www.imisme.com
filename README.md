@@ -1,2 +1,2 @@
 # www.imisme.com
-blog
+blogs
